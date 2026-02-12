@@ -1,33 +1,46 @@
+# 👋 Hello, I'm Abdullahi
 
-# Hi 👋 I'm Abdullahi
+🎓 Computer Science Student  
+🌍 Born in Nigeria  
+💡 Passionate about Software Development & Technology  
 
-## 💻 About Me
-I'm a Computer Science student passionate about technology, programming, and building useful software.  
-I enjoy solving problems and turning ideas into real-world applications.
+---
 
-## 🚀 What I'm Working On
-- Building web applications
-- Improving my Java and JavaScriptand Python skills
-- Developing ERP system concepts
-- Creating personal portfolio projects
+## 🚀 About Me
+I am a motivated Computer Science student with a strong interest in building real-world software solutions.  
+I enjoy combining logical thinking with creativity to develop applications that solve practical problems.
 
-## 🛠️ Tech Stack
-- HTML
-- CSS
-- JavaScript
-- Java
-- Git & GitHub
+Currently, I am improving my skills in:
+- Web Development
+- Java Programming
+- Software System Design
+- ERP System Development Concepts
 
-## 🎯 Goals
-- Become a professional software developer
-- Contribute to open-source projects
-- Build impactful tech solutions
+---
 
-## 🎮 Interests
+## 🛠️ Technologies & Tools
+- 💻 HTML, CSS, JavaScript
+- ☕ Java
+- 🛠️ Git & GitHub
+- 🖥️ VS Code
+
+---
+
+## 📈 What I’m Focused On
+- Strengthening my problem-solving skills
+- Building portfolio projects
+- Learning advanced programming concepts
+- Preparing for professional software engineering roles
+
+---
+
+## 🎯 Long-Term Vision
+To become a skilled software engineer who builds scalable and impactful systems.
+
+---
+
+## 🎮 Outside Tech
+When I'm not coding, you'll find me:
+- Playing football or basketball
 - Gaming
-- Football & Basketball
-- Music
-- Tech innovation
-
-## 📫 Connect With Me
-- Linkedin : https://www.linkedin.com/in/abdullahi-adedeji-00ba42377/
+- Listening to music
