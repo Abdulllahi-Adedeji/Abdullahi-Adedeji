@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Abdullahi
 
 🎓 Computer Science Student  
-🌍 Born in Nigeria  
 💡 Passionate about Software Development & Technology  
 
 ---
